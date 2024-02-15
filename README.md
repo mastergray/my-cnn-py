@@ -17,7 +17,7 @@ Paraphased from ChatGPT:
 > CNNs excel at capturing hierarchical features in data, making them particularly effective for tasks like image classification, object detection, and image segmentation, where local and global patterns are essential for accurate predictions. Their ability to automatically learn these features from raw data sets them apart from traditional computer vision methods.
 
 
-The CNN we are going to try to implement here is one that can "learn" to classify digits 0-9 from the [MINST](https://github.com/mastergray/my-minst-py) dataset. It's essetinally the CNN example model from Francois Chollet's [Deep Learning With Python](https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/1617296864/ref=sr_1_1?crid=Q16L9QS1VXT4&keywords=deep+learning+with+python&qid=1695571267&sprefix=deep+learning+with+python%2Caps%2C105&sr=8-1) but encapulated as a class to help me better understand/remeber what stuff is/does. 
+The CNN we are going to try to implement here is one that can "learn" to classify digits 0-9 from the [MNIST](https://en.wikipedia.org/wiki/MNIST_database) dataset. It's essetinally the CNN example model from Francois Chollet's [Deep Learning With Python](https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/1617296864/ref=sr_1_1?crid=Q16L9QS1VXT4&keywords=deep+learning+with+python&qid=1695571267&sprefix=deep+learning+with+python%2Caps%2C105&sr=8-1) but encapulated as a class to help me better understand/remeber what stuff is/does. 
 
 ## Notes
 
